@@ -1,2 +1,4 @@
 # springcloud-config
-这个是分布式集中配置文件
+springcloud-config的配置中心
+
+springcloud-config的配置中心
